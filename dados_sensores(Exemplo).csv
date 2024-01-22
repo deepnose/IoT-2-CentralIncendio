@@ -1,0 +1,178 @@
+Dados,Sensor,Timestamp
+ets Jun  8 2016 00:22:57,sensor1,2024-01-22 10:54:44.150345
+ets Jun  8 2016 00:22:57,sensor3,2024-01-22 10:54:44.157430
+,sensor1,2024-01-22 10:54:44.163773
+,sensor3,2024-01-22 10:54:44.168944
+"rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)",sensor1,2024-01-22 10:54:44.178658
+"rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)",sensor3,2024-01-22 10:54:44.187340
+"configsip: 0, SPIWP:0xee",sensor1,2024-01-22 10:54:44.193917
+"configsip: 0, SPIWP:0xee",sensor3,2024-01-22 10:54:44.198444
+"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00",sensor1,2024-01-22 10:54:44.205933
+"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00",sensor3,2024-01-22 10:54:44.213892
+"mode:DIO, clock div:1",sensor1,2024-01-22 10:54:44.217882
+"mode:DIO, clock div:1",sensor3,2024-01-22 10:54:44.224275
+"load:0x3fff0030,len:1344",sensor1,2024-01-22 10:54:44.228261
+"load:0x3fff0030,len:1344",sensor3,2024-01-22 10:54:44.233800
+"load:0x40078000,len:13964",sensor1,2024-01-22 10:54:44.239409
+"load:0x40078000,len:13964",sensor3,2024-01-22 10:54:44.243968
+"load:0x40080400,len:3600",sensor1,2024-01-22 10:54:44.249116
+"load:0x40080400,len:3600",sensor3,2024-01-22 10:54:44.254790
+entry 0x400805f0,sensor1,2024-01-22 10:54:44.260741
+entry 0x400805f0,sensor3,2024-01-22 10:54:44.264385
+Valores dentro do expectável,sensor2,2024-01-22 10:54:44.297558
+0,sensor2,2024-01-22 10:54:44.301545
+Connecting to Wi-Fi.........,sensor1,2024-01-22 10:54:47.356678
+Valores dentro do expectável,sensor2,2024-01-22 10:54:47.361693
+Connecting to Wi-Fi.,sensor3,2024-01-22 10:54:47.365344
+Connected with IP: 192.168.1.102,sensor1,2024-01-22 10:54:47.371376
+0,sensor2,2024-01-22 10:54:47.374931
+Connected with IP: 192.168.1.161,sensor3,2024-01-22 10:54:47.379047
+,sensor1,2024-01-22 10:54:47.382939
+Valores dentro do expectável,sensor2,2024-01-22 10:54:47.387153
+,sensor3,2024-01-22 10:54:47.389188
+0,sensor2,2024-01-22 10:54:47.391188
+ok,sensor3,2024-01-22 10:54:47.395281
+Valores dentro do expectável,sensor3,2024-01-22 10:54:47.399728
+27,sensor3,2024-01-22 10:54:47.403289
+Valores dentro do expectável,sensor2,2024-01-22 10:54:47.831122
+0,sensor2,2024-01-22 10:54:47.834723
+Valores dentro do expectável,sensor3,2024-01-22 10:54:47.882744
+30,sensor3,2024-01-22 10:54:47.887423
+ok,sensor1,2024-01-22 10:54:48.606961
+Valores dentro do expectável,sensor1,2024-01-22 10:54:48.612548
+0,sensor1,2024-01-22 10:54:48.617208
+Valores dentro do expectável,sensor2,2024-01-22 10:54:49.008371
+0,sensor2,2024-01-22 10:54:49.015866
+Valores dentro do expectável,sensor3,2024-01-22 10:54:49.056641
+25,sensor3,2024-01-22 10:54:49.063017
+Valores dentro do expectável,sensor2,2024-01-22 10:54:50.178670
+0,sensor2,2024-01-22 10:54:50.190034
+Valores dentro do expectável,sensor3,2024-01-22 10:54:50.230252
+Valores dentro do expectável,sensor1,2024-01-22 10:54:50.237351
+19,sensor3,2024-01-22 10:54:50.239852
+0,sensor1,2024-01-22 10:54:50.243444
+Valores dentro do expectável,sensor2,2024-01-22 10:54:51.353419
+0,sensor2,2024-01-22 10:54:51.362783
+Valores dentro do expectável,sensor1,2024-01-22 10:54:51.402952
+Valores dentro do expectável,sensor3,2024-01-22 10:54:51.409944
+0,sensor1,2024-01-22 10:54:51.413529
+59,sensor3,2024-01-22 10:54:51.420559
+Valores dentro do expectável,sensor2,2024-01-22 10:54:52.526733
+0,sensor2,2024-01-22 10:54:52.529770
+Valores dentro do expectável,sensor1,2024-01-22 10:54:52.576107
+Valores dentro do expectável,sensor3,2024-01-22 10:54:52.582128
+0,sensor1,2024-01-22 10:54:52.586125
+42,sensor3,2024-01-22 10:54:52.589627
+Valores dentro do expectável,sensor2,2024-01-22 10:54:53.705761
+0,sensor2,2024-01-22 10:54:53.710923
+Valores dentro do expectável,sensor1,2024-01-22 10:54:53.747957
+0,sensor1,2024-01-22 10:54:53.751862
+Valores dentro do expectável,sensor3,2024-01-22 10:54:53.756243
+82,sensor3,2024-01-22 10:54:53.759831
+Valores dentro do expectável,sensor2,2024-01-22 10:54:54.879403
+0,sensor2,2024-01-22 10:54:54.884961
+Valores dentro do expectável,sensor1,2024-01-22 10:54:54.917544
+0,sensor1,2024-01-22 10:54:54.921565
+Valores dentro do expectável,sensor3,2024-01-22 10:54:54.927739
+60,sensor3,2024-01-22 10:54:54.932360
+Valores dentro do expectável,sensor2,2024-01-22 10:54:56.058017
+0,sensor2,2024-01-22 10:54:56.063755
+Valores dentro do expectável,sensor1,2024-01-22 10:54:56.091461
+0,sensor1,2024-01-22 10:54:56.098149
+Valores dentro do expectável,sensor3,2024-01-22 10:54:56.102376
+82,sensor3,2024-01-22 10:54:56.105919
+Valores dentro do expectável,sensor2,2024-01-22 10:54:57.235311
+0,sensor2,2024-01-22 10:54:57.241491
+Valores dentro do expectável,sensor1,2024-01-22 10:54:57.261477
+0,sensor1,2024-01-22 10:54:57.264896
+Valores dentro do expectável,sensor3,2024-01-22 10:54:57.271996
+65,sensor3,2024-01-22 10:54:57.277727
+Valores dentro do expectável,sensor2,2024-01-22 10:54:58.413790
+0,sensor2,2024-01-22 10:54:58.418955
+Valores dentro do expectável,sensor1,2024-01-22 10:54:58.438879
+Valores dentro do expectável,sensor3,2024-01-22 10:54:58.446308
+0,sensor1,2024-01-22 10:54:58.450306
+81,sensor3,2024-01-22 10:54:58.456119
+Valores dentro do expectável,sensor2,2024-01-22 10:54:59.592372
+0,sensor2,2024-01-22 10:54:59.601460
+Valores dentro do expectável,sensor1,2024-01-22 10:54:59.607945
+Valores dentro do expectável,sensor3,2024-01-22 10:54:59.617838
+0,sensor1,2024-01-22 10:54:59.626985
+32,sensor3,2024-01-22 10:54:59.631515
+Valores dentro do expectável,sensor2,2024-01-22 10:55:00.768124
+0,sensor2,2024-01-22 10:55:00.776350
+Valores dentro do expectável,sensor1,2024-01-22 10:55:00.781721
+Valores dentro do expectável,sensor3,2024-01-22 10:55:00.789107
+0,sensor1,2024-01-22 10:55:00.794800
+94,sensor3,2024-01-22 10:55:00.799013
+Valores dentro do expectável,sensor2,2024-01-22 10:55:01.940407
+0,sensor2,2024-01-22 10:55:01.945469
+Valores dentro do expectável,sensor1,2024-01-22 10:55:01.957560
+Valores dentro do expectável,sensor3,2024-01-22 10:55:01.962561
+0,sensor1,2024-01-22 10:55:01.968186
+29,sensor3,2024-01-22 10:55:01.971388
+Valores dentro do expectável,sensor2,2024-01-22 10:55:03.115598
+0,sensor2,2024-01-22 10:55:03.120253
+Valores dentro do expectável,sensor1,2024-01-22 10:55:03.125151
+0,sensor1,2024-01-22 10:55:03.128681
+Valores dentro do expectável,sensor3,2024-01-22 10:55:03.133288
+95,sensor3,2024-01-22 10:55:03.136759
+Valores dentro do expectável,sensor2,2024-01-22 10:55:04.290661
+Valores dentro do expectável,sensor1,2024-01-22 10:55:04.298573
+0,sensor2,2024-01-22 10:55:04.302151
+0,sensor1,2024-01-22 10:55:04.307221
+Valores dentro do expectável,sensor3,2024-01-22 10:55:04.313776
+37,sensor3,2024-01-22 10:55:04.317769
+Valores dentro do expectável,sensor2,2024-01-22 10:55:05.463742
+Valores dentro do expectável,sensor1,2024-01-22 10:55:05.469921
+0,sensor2,2024-01-22 10:55:05.476588
+Valores dentro do expectável,sensor3,2024-01-22 10:55:05.481618
+0,sensor1,2024-01-22 10:55:05.485883
+23,sensor3,2024-01-22 10:55:05.490608
+Valores dentro do expectável,sensor2,2024-01-22 10:55:06.636461
+Valores dentro do expectável,sensor1,2024-01-22 10:55:06.641494
+0,sensor2,2024-01-22 10:55:06.645205
+0,sensor1,2024-01-22 10:55:06.650214
+Valores dentro do expectável,sensor3,2024-01-22 10:55:06.656217
+19,sensor3,2024-01-22 10:55:06.659846
+Valores dentro do expectável,sensor1,2024-01-22 10:55:07.804377
+0,sensor1,2024-01-22 10:55:07.808885
+Valores dentro do expectável,sensor2,2024-01-22 10:55:07.813943
+0,sensor2,2024-01-22 10:55:07.818646
+Valores dentro do expectável,sensor3,2024-01-22 10:55:07.825609
+90,sensor3,2024-01-22 10:55:07.829541
+Valores dentro do expectável,sensor1,2024-01-22 10:55:08.975395
+0,sensor1,2024-01-22 10:55:08.979953
+Valores dentro do expectável,sensor2,2024-01-22 10:55:08.984799
+0,sensor2,2024-01-22 10:55:08.988298
+Valores dentro do expectável,sensor3,2024-01-22 10:55:09.001987
+31,sensor3,2024-01-22 10:55:09.007756
+Valores dentro do expectável,sensor1,2024-01-22 10:55:10.144549
+12,sensor1,2024-01-22 10:55:10.149534
+Valores dentro do expectável,sensor2,2024-01-22 10:55:10.155497
+0,sensor2,2024-01-22 10:55:10.160061
+Valores dentro do expectável,sensor3,2024-01-22 10:55:10.173978
+69,sensor3,2024-01-22 10:55:10.179106
+Valores dentro do expectável,sensor1,2024-01-22 10:55:11.317219
+0,sensor1,2024-01-22 10:55:11.325657
+Valores dentro do expectável,sensor2,2024-01-22 10:55:11.331581
+0,sensor2,2024-01-22 10:55:11.334773
+Valores dentro do expectável,sensor3,2024-01-22 10:55:11.346356
+81,sensor3,2024-01-22 10:55:11.351342
+Valores dentro do expectável,sensor1,2024-01-22 10:55:12.484031
+0,sensor1,2024-01-22 10:55:12.488121
+Valores dentro do expectável,sensor2,2024-01-22 10:55:12.510677
+Valores dentro do expectável,sensor3,2024-01-22 10:55:12.529218
+0,sensor2,2024-01-22 10:55:12.531632
+16,sensor3,2024-01-22 10:55:12.538566
+Valores dentro do expectável,sensor1,2024-01-22 10:55:13.658003
+0,sensor1,2024-01-22 10:55:13.661482
+Valores dentro do expectável,sensor2,2024-01-22 10:55:13.685665
+0,sensor2,2024-01-22 10:55:13.689654
+Valores dentro do expectável,sensor3,2024-01-22 10:55:13.694156
+97,sensor3,2024-01-22 10:55:13.697705
+Valores dentro do expectável,sensor1,2024-01-22 10:55:14.836711
+0,sensor1,2024-01-22 10:55:14.841582
+Valores dentro do expectável,sensor2,2024-01-22 10:55:14.863307
+Valores dentro do expectável,sensor3,2024-01-22 10:55:14.869505
+0,sensor2,2024-01-22 10:55:14.872540

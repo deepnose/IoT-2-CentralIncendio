@@ -1,0 +1,3 @@
+https://iotmq135esp32-default-rtdb.europe-west1.firebasedatabase.app/
+
+AIzaSyAbXTXPc5VT46wRJr__AjwhMfPcr5xdJKM
